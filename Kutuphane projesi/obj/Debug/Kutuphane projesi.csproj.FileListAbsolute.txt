@@ -1,0 +1,6 @@
+C:\Users\Ramazan\source\repos\Kutuphane projesi\Kutuphane projesi\obj\Debug\Kutuphane projesi.csprojAssemblyReference.cache
+C:\Users\Ramazan\source\repos\Kutuphane projesi\Kutuphane projesi\obj\Debug\Kutuphane projesi.csproj.CoreCompileInputs.cache
+C:\Users\Ramazan\source\repos\Kutuphane projesi\Kutuphane projesi\bin\Debug\Kutuphane projesi.exe
+C:\Users\Ramazan\source\repos\Kutuphane projesi\Kutuphane projesi\bin\Debug\Kutuphane projesi.pdb
+C:\Users\Ramazan\source\repos\Kutuphane projesi\Kutuphane projesi\obj\Debug\Kutuphane projesi.exe
+C:\Users\Ramazan\source\repos\Kutuphane projesi\Kutuphane projesi\obj\Debug\Kutuphane projesi.pdb
